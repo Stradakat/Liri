@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+
 var action = process.argv[2];
 var value = process.argv[3];
 var Twitter = require('twitter');
